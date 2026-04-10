@@ -26,11 +26,11 @@
 5.  **展示层**：Markdown 自动化渲染。
 
 ### 💻 运行样例展示
-# 用户需求：
+#### 用户需求：
 "想找一个能直接用来进行统计分析的工具，上传数据后就能自动分析，不想学习编程。"
 
-# Agent 输出：
-## 🏆 专家精选：Top 5 核心推荐
+#### Agent 输出：
+**🏆 专家精选：Top 5 核心推荐**
 根据您的需求，系统已从海量信源中精选出以下 5 款**零编程门槛**的自动化统计工具：
 
 | 工具名 | 核心优势 | 官网链接 |
@@ -42,20 +42,20 @@
 | **Minitab** | 极其易用的引导式统计软件，适合质量管理与教育 | `N/A` |
 
 -----
-## 📚 溯源参考文献 (Reference Report)
+**📚 溯源参考文献 (Reference Report)**
 *本项目通过动态配额算法，为您整合了以下多维度信源，确保推荐的中立性与专业性。*
 
-### 📊 【维度一：权威榜单】
+**📊 【维度一：权威榜单】**
 > 侧重于行业覆盖度与工具知名度排名。
   * [2026 年度不可错过的 8 款统计分析软件精选](https://learn.g2.com/best-statistical-analysis-software)
   * [Julius AI：2026 年最佳统计工具对比报告](https://julius.ai/articles/statistical-analysis-tools)
 
-### 🔍 【维度二：深度评测】
+**🔍 【维度二：深度评测】**
 > 侧重于功能细节分析与专业系统对比。
   * [Top 5 核心统计系统深度对比综述](https://www.prostatservices.com/articles/a-review-of-the-top-five-statistical-software-systems)
   * [G2 深度报告：统计分析软件优劣势横评](https://learn.g2.com/best-statistical-analysis-software)
 
-### 👤 【维度三：真实体验】
+**👤 【维度三：真实体验】**
 > 侧重于实际操作中的学习曲线与用户反馈。
   * [基于 2026 年用户反馈的 11 款 AI 统计工具定价与功能指南](https://julius.ai/articles/statistical-analysis-tools)
 
